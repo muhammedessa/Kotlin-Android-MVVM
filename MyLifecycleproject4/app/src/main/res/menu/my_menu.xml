@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/add_file"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Add file"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/delete_file"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="delete file"
+        />
+    <item
+        android:id="@+id/settings_file"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="settings"
+        />
+
+
+
+</menu>

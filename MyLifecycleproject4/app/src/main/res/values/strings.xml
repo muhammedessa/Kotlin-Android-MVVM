@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Life cycle project4</string>
+    <string name="hi_text">Welcome my friend</string>
+    <string-array name="mystringarray">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>Python</item>
+    </string-array>
+</resources>

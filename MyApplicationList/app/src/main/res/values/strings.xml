@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application List</string>
+    <string name="item_name">name</string>
+    <string name="description_text">description</string>
+</resources>
